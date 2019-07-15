@@ -1,0 +1,43 @@
+.section3{
+    border: 2px solid;
+    margin-top:20px;
+    margin-bottom: 20px;
+    min-height: 420px;
+}
+.head_sec3{
+   
+    text-align: center;
+   
+  }
+  .width30{
+      width:33%
+  }
+  .displayInline{
+      display:inline-block;
+  }
+  .content-box{
+    width: 340px;
+    border: 1px solid;
+    margin: 20px 0px 0px 8px;
+}
+
+
+.btn:hover
+{
+color:white;
+background-color:black;
+}
+  .content-box button{
+      width:100% !important;
+  }
+ .fishStorage{
+     border: 1px solid black;
+     text-align: center;
+ }
+ .img_fish{
+    width: 100px;
+    height: 100px;
+  }
+  .display-block{
+      display: block;
+  }

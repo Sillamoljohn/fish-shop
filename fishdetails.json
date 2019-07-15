@@ -1,0 +1,25 @@
+{
+    "data":[
+        {   "id":1,
+            "fishdescription": "Fish is soft",
+            "fishimage": "../assets/images/fish-pic.png",
+            "fishname": "Fish1",
+            "fishprice": 150,
+            "fishstatus": "Fresh"
+        },
+        {   "id":2,
+            "fishdescription": "Fish is Yummy",
+            "fishimage": "../assets/images/fish2.jpg",
+            "fishname": "Fish2",
+            "fishprice": 299,
+            "fishstatus": "Not Fresh"
+        },
+        {   "id":3,
+            "fishdescription": "Bone less fish",
+            "fishimage": "../assets/images/fish1.jpg",
+            "fishname": "Fish3",
+            "fishprice": 400,
+            "fishstatus": "Available"
+        }
+    ]
+}
